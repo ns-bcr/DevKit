@@ -55,5 +55,3 @@ DevKit/
 ```
 
 ---
-
-Built for [Proxmox](https://www.proxmox.com/) homelabs.# DevKit
