@@ -1,0 +1,31 @@
+# CodeGraph regeneratable index
+.codegraph/
+
+# macOS
+.DS_Store
+.DS_Store?
+.AppleDouble
+.LSOverride
+._*
+
+# Claude Code local overrides (user-specific)
+.claude/settings.local.json
+.claude/worktrees/
+.claude/scheduled_tasks.json
+
+# IDE / Editor
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS temp files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Script artifacts
+*.log
+*.tmp
+/tmp/
